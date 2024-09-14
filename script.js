@@ -4,3 +4,4 @@ function markAsBought(button) {
     button.textContent = "Comprado!";
     button.disabled = true;
 }
+
